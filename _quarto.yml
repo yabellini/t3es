@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Course Title"
+  title: "Enseñando Tecnología en Comunidad"
   sidebar:
     background: primary
     # logo: "images/logo.png"
@@ -11,7 +11,7 @@ website:
     align: center
     tools:
       - icon: github
-        href: https://github.com/Pakillo/quarto-course-website-template
+        href: https://github.com/yabellini/t3es
         text: GitHub
     style: docked
     contents:
@@ -21,7 +21,7 @@ website:
         text: Schedule
       - href: materials.qmd
         text: Materials
-      - href: https://github.com/Pakillo/quarto-course-website-template/discussions
+      - href:
         text: Forum
 
 format:
