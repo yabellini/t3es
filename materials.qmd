@@ -2,7 +2,12 @@
 title: "Materiales del curso"
 ---
 
+Este curso fue construido utilizando los siguientes materiales y herramientas:
 
-[Slides](slides/)
+* Google Slides para las diapositivas y algunos ejercicios.
+* Google Docs para los documentos compartidos.
+* [Una plantilla para sitios web de cursos desarrollada con Quarto y alojada en GitHub](https://github.com/Pakillo/quarto-course-website-template) desarrollada por [Pakillo](https://github.com/Pakillo/)
+* Las imágenes de las slides fueron descargadas de [Freepik](https://www.freepik.com/)
 
-[Documentos compartidos](slides/)
+
+
