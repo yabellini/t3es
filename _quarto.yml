@@ -29,6 +29,14 @@ website:
         text: Lección 5 - Crítica - Devolución - Feedback
       - href: evaluacion.qmd
         text: Lección 6 - Evaluación
+      - href: motivacion.qmd
+        text: Lección 7 - Motivación
+      - href: aprendizaje.qmd
+        text: Lección 8 - Aprendizaje
+      - href: preparacion.qmd
+        text: Lección 9 - Preparándote para Enseñar
+      - href: mitos-reglas.qmd
+        text: Lección 10 - Mitos educativos y reglas para enseñar
       - href: schedule.qmd
         text: Agenda
       - href: materials.qmd
