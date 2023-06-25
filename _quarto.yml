@@ -32,7 +32,7 @@ website:
       - href: schedule.qmd
         text: Agenda
       - href: materials.qmd
-        text: Materialess
+        text: Materiales
 
 
 format:
