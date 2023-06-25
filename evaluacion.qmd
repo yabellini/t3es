@@ -1,0 +1,20 @@
+---
+title: "Evaluación"
+---
+
+## Objetivos de aprendizaje
+
+1. Definir los términos "evaluación formativa" y "evaluación sumativa" y explicar las diferentes funciones de cada una.
+2. Explicar por qué y cómo las evaluaciones formativas deben identificar conceptos erróneos.
+3. Describir tres maneras en que los docentes pueden determinar qué conceptos erróneos buscar.
+4. Explicar los objetivos complementarios de las evaluaciones formativas para docentes y estudiantes.
+5. Explicar qué es la instrucción entre pares, por qué es eficaz y los requisitos para que tenga éxito.
+6. Describir el papel de la evaluación sumativa y las características de las evaluaciones sumativas eficaces.
+7. Describir el proceso de diseño inverso de una lección. 
+8. Crear peguntas de opciones múltiples efectivas.
+
+
+## Slides
+
+<iframe src="https://docs.google.com/presentation/d/1nhA1LizGVbSzu1-3l6-5pcbOYDnqR5-V_Vfqu6GJWJE/embed?start=false&loop=false&delayms=3000" frameborder="0" width="760" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
