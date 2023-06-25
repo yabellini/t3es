@@ -1,0 +1,17 @@
+---
+title: "Capacidad Cognitiva"
+---
+
+## Objetivos de aprendizaje
+
+1. Explicar qué es "siete más menos dos" (capacidad de la memoria a corto plazo) y qué  implicas para diseñar y enseñar lecciones.
+2. Explicar como los mapas conceptuales pueden ayudar a manejar la capacidad cognitiva.
+3. Explicar qué es un ejemplo desvanecido y cómo su eficacia puede basarse en la capacidad limitada de la memoria a corto plazo.
+4. Identificar qué tipo de carga cognitiva reducen los problemas desvanecidos.
+5. Crear ejercicios con ejemplos desvanecidos y explicar cuándo y cómo deben o no utilizarse.
+
+
+## Slides
+
+<iframe src="https://docs.google.com/presentation/d/1xFrrvQST7soDLcMdt0MOm0YaeUrP7Db3x8dSOOW5fL0/embed?start=false&loop=false&delayms=3000" frameborder="0" width="760" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
