@@ -30,11 +30,11 @@ Este es un curso para aprender a enseñar tecnología, no necesitas tener experi
 
 ## ¿Cómo usar este material?
 
-Si quieres usar este material para enseñar, en la sección _materiales_ vas a encontrar el set de slides para cada lección y ejemplos de los documentos compartidos utilizados.  
+Si quieres usar este material para enseñar, en cada lección vas a encontrar los objetivos de aprendizaje, las diapositivas y ejemplos de los documentos compartidos utilizados.  
 
-En la sección _agenda_ vas a encontrar un ejemplo de organización del material.
+En la sección _agenda_ vas a encontrar un ejemplo de organización de las lecciones y en la sección _material_ vas a encontrar un listado de los recursos que utilizamos para armar este taller. 
 
-Podes copiar, re usar y adaptar este material para tus propios talleres.  Lo que te pedimos es que nos des crédito por el material y cumplas con la licencia.
+Podes copiar, re usar y adaptar este material para tus propios talleres.  Lo que te pedimos es que nos des crédito por el material y cumplas con la licencia que detallamos a continuación.
 
 
 ## Licencia
