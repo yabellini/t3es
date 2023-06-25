@@ -1,5 +1,5 @@
 ---
-title: "Schedule"
+title: "Agenda"
 ---
 
 ## Cronograma tentativo
@@ -7,7 +7,7 @@ title: "Schedule"
 Este curso puede dictarse con diferentes configuraciones.  Este cronograma de ejemplo corresponde a un curso de doce horas con tres encuentros de cuatro horas cada uno.  Es recomendable espaciar los encuentros, con al menos un día entre cada uno.
 
 |Día 1|  Ejemplo horario a la mañana|        
-|:---:|:-----------------------------------:|
+|:---:|:-----------------------------------|
 |  09:00  |Bienvenida ¿Qué debe esperar de este taller?            |
 |  09:15  |Introducción. Personas tipo. Modelos Metales. ¿Cómo aprenden las personas? ¿Cómo podemos ayudar a los novatos a convertirse en practicantes competentes? | 
 |  10:30  |Pausa de la mañana           | 
@@ -17,7 +17,7 @@ Este curso puede dictarse con diferentes configuraciones.  Este cronograma de ej
 |  13:00: | Fin del primer día |
 
 |Día 2| Ejemplo horario a la tarde |
-|:---:|:-----------------------------------:|
+|:---:|:-----------------------------------|
 |13.00| Bienvenida, consultas día anterior.|
 |13:30| Motivación y desmotivación ¿Por qué es importante la motivación? ¿Cómo podemos crear un entorno motivador para los alumnos?|
 |14:35| Equidad, inclusión y accesibilidad ¿Por qué son importantes la equidad, la inclusión y la accesibilidad? ¿Qué puedo hacer para mejorar la equidad, la inclusión y la accesibilidad en mi taller? |
@@ -28,7 +28,7 @@ Este curso puede dictarse con diferentes configuraciones.  Este cronograma de ej
 
 
 |Día 3|  Ejemplo horario a la mañana|        
-|:---:|:-----------------------------------:|
+|:---:|:-----------------------------------|
 |09:00 |Bienvenida ¿Qué hemos aprendido hasta ahora?¿En qué nos centraremos hoy?|
 |09:15 |Interacción. La codificación en vivo es una habilidad ¿Por qué enseñamos a programar utilizando la codificación participativa en vivo?|
 |09:50 |Preparación para enseñar ¿Cómo debo prepararme para enseñar?|
