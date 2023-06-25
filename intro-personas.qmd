@@ -1,0 +1,17 @@
+---
+title: "Introducción y Personas"
+---
+
+## Objetivos de aprendizaje
+
+1. Resumir cuatro objetivos clave de esta formación.
+2. Explicar cómo y por qué esta formación prepara a las personas para ser "paramédicos educativos".
+3. Explicar qué son las personas o estudiantes tipo y para qué sirven.
+4. Describir los cuatro elementos que debe tener toda persona tipo.
+5. Crear estudiantes tipo. 
+6. Resumir las lecciones de manera que resulten entendibles y atractivas para determinadas personas tipo.
+
+## Slides
+
+<iframe src="https://docs.google.com/presentation/d/1zWlusEKBnKXKvYHOQdDlQkAzGuFT_Ou6DyqXLkqU_cA/embed?start=false&loop=false&delayms=3000" frameborder="0" width="760" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
