@@ -1,0 +1,20 @@
+---
+title: "Crítica - Devolución - Feedback"
+---
+
+## Objetivos de aprendizaje
+
+1. Describir las principales diferencias entre el material didáctico estático y la presentación dinámica de las clases, así como el papel de la improvisación en esta última.
+2. Explicar tres estrategias para obtener feedback que son útiles para mejorar nuestra enseñanza.
+3. Explicar las características de una crítica constructiva.
+4. Describir los elementos de una rubrica básica para dar feedback sobre la enseñanza.
+5. Explicar qué es la demostración (y programación) en vivo.
+6. Explicar los cuatro pasos que debe dar un instructor cada vez que comete un error durante una demostración en vivo delante de una clase.
+7. Criticar de forma constructiva presentaciones de clases grabadas y en directo.
+8. Identificar y utilizar tres herramientas (notas adhesivas, ticket de salida, uno arriba-uno abajo) para solicitar feedback a los estudiantes. 
+
+
+## Slides
+
+<iframe src="https://docs.google.com/presentation/d/1p4mBh-OEpv46Lj0u9Fg7lTp1cpBGoTDDoqLMl2BhjSE/embed?start=false&loop=false&delayms=3000" frameborder="0" width="760" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
