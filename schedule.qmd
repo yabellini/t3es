@@ -2,14 +2,42 @@
 title: "Schedule"
 ---
 
-Example schedule:
+## Cronograma tentativo
 
-|     |                Morning              |          Afternoon                     |
-|:---:|:-----------------------------------:|:--------------------------------------:|
-|  L  | Intro + Data manipulation           | git / GitHub                           |
-|  M  | Generalised Linear Models           | Data visualisation                     |
-|  X  | Mixed models / GAM / Bayes          | Functional programming + Students work |
-|  J  | Multivariate analyses               | Reproducible workflows                 |
-|  V  | Using R as GIS + Students work      | Project presentations                  |
+Este curso puede dictarse con diferentes configuraciones.  Este cronograma de ejemplo corresponde a un curso de doce horas con tres encuentros de cuatro horas cada uno.  Es recomendable espaciar los encuentros, con al menos un día entre cada uno.
+
+|Día 1|  Ejemplo horario a la mañana|        
+|:---:|:-----------------------------------:|
+|  09:00  |Bienvenida ¿Qué debe esperar de este taller?            |
+|  09:15  |Introducción. Personas tipo. Modelos Metales. ¿Cómo aprenden las personas? ¿Cómo podemos ayudar a los novatos a convertirse en practicantes competentes? | 
+|  10:30  |Pausa de la mañana           | 
+|  10:45  |Experiencia e instrucción ¿La experiencia en la materia convierte a alguien en un gran docente? ¿En qué nos diferenciamos instructores de estudiantes y cómo afecta esto a nuestra enseñanza?           |
+|  11:30  | Memoria y carga cognitiva ¿Qué es la carga cognitiva y cómo afecta al aprendizaje?, ¿Cómo podemos diseñar la enseñanza para trabajar con, en lugar de contra, las limitaciones de la memoria?          | 
+|  12:15  | Desarrollar la habilidad con la retroalimentación ¿Cómo puedo obtener la retroalimentación de los alumnos? ¿Cómo puedo utilizar esta retroalimentación para mejorar mi enseñanza? |
+|  13:00: | Fin del primer día |
+
+|Día 2| Ejemplo horario a la tarde |
+|:---:|:-----------------------------------:|
+|13.00| Bienvenida, consultas día anterior.|
+|13:30| Motivación y desmotivación ¿Por qué es importante la motivación? ¿Cómo podemos crear un entorno motivador para los alumnos?|
+|14:35| Equidad, inclusión y accesibilidad ¿Por qué son importantes la equidad, la inclusión y la accesibilidad? ¿Qué puedo hacer para mejorar la equidad, la inclusión y la accesibilidad en mi taller? |
+|15:15 | Pausa de la tarde|
+|15:30 | La enseñanza es una habilidad ¿Cómo puedo mejorar mi enseñanza?|
+|16:30 | Recapitulación y deberes ¿Qué hemos aprendido hasta ahora? ¿Qué hay que hacer para preparar la siguiente parte del taller?|
+|16:50 | Cierre del día|
 
 
+|Día 3|  Ejemplo horario a la mañana|        
+|:---:|:-----------------------------------:|
+|09:00 |Bienvenida ¿Qué hemos aprendido hasta ahora?¿En qué nos centraremos hoy?|
+|09:15 |Interacción. La codificación en vivo es una habilidad ¿Por qué enseñamos a programar utilizando la codificación participativa en vivo?|
+|09:50 |Preparación para enseñar ¿Cómo debo prepararme para enseñar?|
+|10:25 |Pausa de la mañana |
+|10:35 |Codificación en vivo y feedback. Más práctica de codificación en vivo ¿Cómo cambió tu enseñanza en respuesta a la retroalimentación?|
+|11:15 |Trabajar con su equipo ¿Cuáles son los retos de gestionar un aula heterogénea? Enseñando en equipo.|
+|11:25 |Pausa|
+|11:35 |Mitos en la educación. Las reglas para enseñar.|
+|12:10 |¿Cómo se utilizan las prácticas de enseñanza que hemos aprendido?|
+|12:40 |Conclusión. ¿Qué podemos mejorar en esta formación?|
+|12:50 |Encuesta posterior a la formación|
+|13:00 |Cierre día 3.|
