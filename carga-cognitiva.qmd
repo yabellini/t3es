@@ -1,0 +1,19 @@
+---
+title: "Carga Cognitiva"
+---
+
+## Objetivos de aprendizaje
+
+1. Explicar la diferencia entre la memoria a largo plazo y a corto plazo y describir el ciclo de recuperación/codificación.
+2. Describir cómo se procesa, integra y almacena la información visual y auditiva.
+3. Resumir las conclusiones de Benner et al sobre los modos de aprendizaje (visual + habla, visual + texto, visual + habla + texto).
+4. Definir los tres tipos de carga cognitiva e identificar correctamente ejemplos de cada uno.
+5. Explicar que implicancias tiene la teoría de la carga cognitiva para el diseñar y enseñar lecciones.
+6. Explicar qué es un problema de Parsons y cómo su eficacia puede basarse en la teoría de la carga cognitiva.
+7. Crear Problemas de Parsons y explicar cuándo y cómo deben o no deben utilizarse.
+
+
+## Slides
+
+<iframe src="https://docs.google.com/presentation/d/1-nhsW8DnJoUvxAx9u6bjGTMU7oqM7QpE5aQr37fBhiM/embed?start=false&loop=false&delayms=3000" frameborder="0" width="760" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
