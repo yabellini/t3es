@@ -16,13 +16,24 @@ website:
     style: docked
     contents:
       - href: index.qmd
-        text: Home
+        text: Inicio
+      - href: intro-personas.qmd
+        text: Lección 1 - Introducción y personas
+      - href: intro-personas.qmd
+        text: Lección 2 - Modelos mentales
+      - href: carga-cognitiva.qmd
+        text: Lección 3 - Carga cognitiva
+      - href: capacidad-cognitiva.qmd
+        text: Lección 4 - Capacidad cognitiva
+      - href: feedback.qmd
+        text: Lección 5 - Crítica - Devolución - Feedback
+      - href: evaluacion.qmd
+        text: Lección 6 - Evaluación
       - href: schedule.qmd
-        text: Schedule
+        text: Agenda
       - href: materials.qmd
-        text: Materials
-      - href:
-        text: Forum
+        text: Materialess
+
 
 format:
   html:
