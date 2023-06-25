@@ -1,0 +1,20 @@
+---
+title: "Modelos mentales"
+---
+
+## Objetivos de aprendizaje
+
+1. Describir las diferencias entre estudiantes principiantes, competentes y expertos/as.
+2. Explicar qué es un modelo mental y por qué no necesita ser completo ni correcto para ser útil.
+3. Explicar cómo la falta de un modelo mental afecta el aprendizaje de las personas principiantes y por qué el objetivo de las lecciones para principiantes debe ser ayudarles a construir un modelo mental.
+4. Explicar cómo el docente puede saber si alguien tiene un modelo mental funcional.
+5. Explicar qué es un mapa conceptual y qué elementos debe tener.
+6. Describir cinco maneras en que los mapas conceptuales pueden ser utilizados para planificar, enseñar y evaluar lecciones.
+7. Crear mapas conceptuales.
+8. Describir 5 estrategias para trabajar con estudiantes de distintos niveles.
+
+
+## Slides
+
+<iframe src="https://docs.google.com/presentation/d/1y4TpBPXXu3teHXoCOcasqTLBEkACevptgc3I-_nbBHM/embed?start=false&loop=false&delayms=3000" frameborder="0" width="760" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
