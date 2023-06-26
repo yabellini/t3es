@@ -61,4 +61,4 @@ Bellini Saibene, Yanina; Corrales, Paola.
 
 Como mencionamos la mayor parte de este material se derivó del Libro Enseñar Tecnología en Comunidad (Teaching Tech Together) que se está actualizando en la [segunda edición de Enseñar Tecnología en Comunidad](https://teachingtechtogether.netlify.app/).  
 
-También utilizamos material del [entrenamiento para instructores de Posit (former RStudio) Education](https://education.rstudio.com/trainers/#info) creado por [Greg Wilson](https://third-bit.com/) y el [entrenamiento para instructores de The Carpentries](https://carpentries.github.io/instructor-training).   
+También utilizamos material del [entrenamiento para instructores de Posit (ex RStudio) Education](https://education.rstudio.com/trainers/#info) creado por [Greg Wilson](https://third-bit.com/) y el [entrenamiento para instructores de The Carpentries](https://carpentries.github.io/instructor-training).   
