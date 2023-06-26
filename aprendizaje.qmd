@@ -1,0 +1,14 @@
+---
+title: "Aprendizaje"
+---
+
+## Objetivos de aprendizaje
+
+1. Explicar la diferencia entre aprendizaje activo y pasivo y dar dos razones de por qué el primero es más eficaz.
+2. Enumerar seis estrategias que los estudiantes pueden utilizar para acelerar su aprendizaje
+3. Justificar al menos dos de las estrategias mencionadas en función de las ideas introducidas en esta formación.
+
+## Slides
+
+<iframe src="https://docs.google.com/presentation/d/1AmDz4mUKIWr8izOl9NItskOLQmb9SKyb_EjESkgZEiQ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="760" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
