@@ -42,30 +42,65 @@
     "text": "Slides"
   },
   {
-    "objectID": "materials.html",
-    "href": "materials.html",
-    "title": "Materiales del curso",
+    "objectID": "motivacion.html",
+    "href": "motivacion.html",
+    "title": "Motivación",
     "section": "",
-    "text": "Este curso fue construido utilizando los siguientes materiales y herramientas:\n\nGoogle Slides para las diapositivas y algunos ejercicios.\nGoogle Docs para los documentos compartidos.\nUna plantilla para sitios web de cursos desarrollada con Quarto y alojada en GitHub desarrollada por Pakillo\nLas imágenes de las slides fueron descargadas de Freepik"
+    "text": "Describir la diferencia entre motivación intrínseca y extrínseca.\nResumir tres factores principales de motivación y desmotivación de estudiantes adultos neurotípicos.\nDefinir el término “falso principiante”, explicarlo en términos de modelos mentales y explicar los desafíos especiales que los falsos principiantes presentan en la enseñanza.\nExplicar los peligros de la pre-evaluación y como se relaciona con la motivación.\nDescribir que acciones se pueden tomar como docente para contribuir a la inclusión en clase.\nExplicar el papel de los escenarios y los juegos de rol en la adquisición de habilidades de persona aliada.\nDescribir y justificar los pasos que debe dar un/a docente si tiene que expulsar a un/a estudiante de su clase."
   },
   {
-    "objectID": "carga-cognitiva.html",
-    "href": "carga-cognitiva.html",
-    "title": "Carga Cognitiva",
+    "objectID": "motivacion.html#objetivos-de-aprendizaje",
+    "href": "motivacion.html#objetivos-de-aprendizaje",
+    "title": "Motivación",
     "section": "",
-    "text": "Explicar la diferencia entre la memoria a largo plazo y a corto plazo y describir el ciclo de recuperación/codificación.\nDescribir cómo se procesa, integra y almacena la información visual y auditiva.\nResumir las conclusiones de Benner et al sobre los modos de aprendizaje (visual + habla, visual + texto, visual + habla + texto).\nDefinir los tres tipos de carga cognitiva e identificar correctamente ejemplos de cada uno.\nExplicar que implicancias tiene la teoría de la carga cognitiva para el diseñar y enseñar lecciones.\nExplicar qué es un problema de Parsons y cómo su eficacia puede basarse en la teoría de la carga cognitiva.\nCrear Problemas de Parsons y explicar cuándo y cómo deben o no deben utilizarse."
+    "text": "Describir la diferencia entre motivación intrínseca y extrínseca.\nResumir tres factores principales de motivación y desmotivación de estudiantes adultos neurotípicos.\nDefinir el término “falso principiante”, explicarlo en términos de modelos mentales y explicar los desafíos especiales que los falsos principiantes presentan en la enseñanza.\nExplicar los peligros de la pre-evaluación y como se relaciona con la motivación.\nDescribir que acciones se pueden tomar como docente para contribuir a la inclusión en clase.\nExplicar el papel de los escenarios y los juegos de rol en la adquisición de habilidades de persona aliada.\nDescribir y justificar los pasos que debe dar un/a docente si tiene que expulsar a un/a estudiante de su clase."
   },
   {
-    "objectID": "carga-cognitiva.html#objetivos-de-aprendizaje",
-    "href": "carga-cognitiva.html#objetivos-de-aprendizaje",
-    "title": "Carga Cognitiva",
-    "section": "",
-    "text": "Explicar la diferencia entre la memoria a largo plazo y a corto plazo y describir el ciclo de recuperación/codificación.\nDescribir cómo se procesa, integra y almacena la información visual y auditiva.\nResumir las conclusiones de Benner et al sobre los modos de aprendizaje (visual + habla, visual + texto, visual + habla + texto).\nDefinir los tres tipos de carga cognitiva e identificar correctamente ejemplos de cada uno.\nExplicar que implicancias tiene la teoría de la carga cognitiva para el diseñar y enseñar lecciones.\nExplicar qué es un problema de Parsons y cómo su eficacia puede basarse en la teoría de la carga cognitiva.\nCrear Problemas de Parsons y explicar cuándo y cómo deben o no deben utilizarse."
+    "objectID": "motivacion.html#slides",
+    "href": "motivacion.html#slides",
+    "title": "Motivación",
+    "section": "Slides",
+    "text": "Slides"
   },
   {
-    "objectID": "carga-cognitiva.html#slides",
-    "href": "carga-cognitiva.html#slides",
-    "title": "Carga Cognitiva",
+    "objectID": "intro-personas.html",
+    "href": "intro-personas.html",
+    "title": "Introducción y Personas",
+    "section": "",
+    "text": "Resumir cuatro objetivos clave de esta formación.\nExplicar cómo y por qué esta formación prepara a las personas para ser “paramédicos educativos”.\nExplicar qué son las personas o estudiantes tipo y para qué sirven.\nDescribir los cuatro elementos que debe tener toda persona tipo.\nCrear estudiantes tipo.\nResumir las lecciones de manera que resulten entendibles y atractivas para determinadas personas tipo."
+  },
+  {
+    "objectID": "intro-personas.html#objetivos-de-aprendizaje",
+    "href": "intro-personas.html#objetivos-de-aprendizaje",
+    "title": "Introducción y Personas",
+    "section": "",
+    "text": "Resumir cuatro objetivos clave de esta formación.\nExplicar cómo y por qué esta formación prepara a las personas para ser “paramédicos educativos”.\nExplicar qué son las personas o estudiantes tipo y para qué sirven.\nDescribir los cuatro elementos que debe tener toda persona tipo.\nCrear estudiantes tipo.\nResumir las lecciones de manera que resulten entendibles y atractivas para determinadas personas tipo."
+  },
+  {
+    "objectID": "intro-personas.html#slides",
+    "href": "intro-personas.html#slides",
+    "title": "Introducción y Personas",
+    "section": "Slides",
+    "text": "Slides"
+  },
+  {
+    "objectID": "evaluacion.html",
+    "href": "evaluacion.html",
+    "title": "Evaluación",
+    "section": "",
+    "text": "Definir los términos “evaluación formativa” y “evaluación sumativa” y explicar las diferentes funciones de cada una.\nExplicar por qué y cómo las evaluaciones formativas deben identificar conceptos erróneos.\nDescribir tres maneras en que los docentes pueden determinar qué conceptos erróneos buscar.\nExplicar los objetivos complementarios de las evaluaciones formativas para docentes y estudiantes.\nExplicar qué es la instrucción entre pares, por qué es eficaz y los requisitos para que tenga éxito.\nDescribir el papel de la evaluación sumativa y las características de las evaluaciones sumativas eficaces.\nDescribir el proceso de diseño inverso de una lección.\nCrear peguntas de opciones múltiples efectivas."
+  },
+  {
+    "objectID": "evaluacion.html#objetivos-de-aprendizaje",
+    "href": "evaluacion.html#objetivos-de-aprendizaje",
+    "title": "Evaluación",
+    "section": "",
+    "text": "Definir los términos “evaluación formativa” y “evaluación sumativa” y explicar las diferentes funciones de cada una.\nExplicar por qué y cómo las evaluaciones formativas deben identificar conceptos erróneos.\nDescribir tres maneras en que los docentes pueden determinar qué conceptos erróneos buscar.\nExplicar los objetivos complementarios de las evaluaciones formativas para docentes y estudiantes.\nExplicar qué es la instrucción entre pares, por qué es eficaz y los requisitos para que tenga éxito.\nDescribir el papel de la evaluación sumativa y las características de las evaluaciones sumativas eficaces.\nDescribir el proceso de diseño inverso de una lección.\nCrear peguntas de opciones múltiples efectivas."
+  },
+  {
+    "objectID": "evaluacion.html#slides",
+    "href": "evaluacion.html#slides",
+    "title": "Evaluación",
     "section": "Slides",
     "text": "Slides"
   },
@@ -112,46 +147,32 @@
     "text": "Fuentes\nComo mencionamos la mayor parte de este material se derivó del Libro Enseñar Tecnología en Comunidad (Teaching Tech Together) que se está actualizando en la segunda edición de Enseñar Tecnología en Comunidad.\nTambién utilizamos material del entrenamiento para instructores de Posit (former RStudio) Education creado por Greg Wilson y el entrenamiento para instructores de The Carpentries."
   },
   {
-    "objectID": "evaluacion.html",
-    "href": "evaluacion.html",
-    "title": "Evaluación",
+    "objectID": "carga-cognitiva.html",
+    "href": "carga-cognitiva.html",
+    "title": "Carga Cognitiva",
     "section": "",
-    "text": "Definir los términos “evaluación formativa” y “evaluación sumativa” y explicar las diferentes funciones de cada una.\nExplicar por qué y cómo las evaluaciones formativas deben identificar conceptos erróneos.\nDescribir tres maneras en que los docentes pueden determinar qué conceptos erróneos buscar.\nExplicar los objetivos complementarios de las evaluaciones formativas para docentes y estudiantes.\nExplicar qué es la instrucción entre pares, por qué es eficaz y los requisitos para que tenga éxito.\nDescribir el papel de la evaluación sumativa y las características de las evaluaciones sumativas eficaces.\nDescribir el proceso de diseño inverso de una lección.\nCrear peguntas de opciones múltiples efectivas."
+    "text": "Explicar la diferencia entre la memoria a largo plazo y a corto plazo y describir el ciclo de recuperación/codificación.\nDescribir cómo se procesa, integra y almacena la información visual y auditiva.\nResumir las conclusiones de Benner et al sobre los modos de aprendizaje (visual + habla, visual + texto, visual + habla + texto).\nDefinir los tres tipos de carga cognitiva e identificar correctamente ejemplos de cada uno.\nExplicar que implicancias tiene la teoría de la carga cognitiva para el diseñar y enseñar lecciones.\nExplicar qué es un problema de Parsons y cómo su eficacia puede basarse en la teoría de la carga cognitiva.\nCrear Problemas de Parsons y explicar cuándo y cómo deben o no deben utilizarse."
   },
   {
-    "objectID": "evaluacion.html#objetivos-de-aprendizaje",
-    "href": "evaluacion.html#objetivos-de-aprendizaje",
-    "title": "Evaluación",
+    "objectID": "carga-cognitiva.html#objetivos-de-aprendizaje",
+    "href": "carga-cognitiva.html#objetivos-de-aprendizaje",
+    "title": "Carga Cognitiva",
     "section": "",
-    "text": "Definir los términos “evaluación formativa” y “evaluación sumativa” y explicar las diferentes funciones de cada una.\nExplicar por qué y cómo las evaluaciones formativas deben identificar conceptos erróneos.\nDescribir tres maneras en que los docentes pueden determinar qué conceptos erróneos buscar.\nExplicar los objetivos complementarios de las evaluaciones formativas para docentes y estudiantes.\nExplicar qué es la instrucción entre pares, por qué es eficaz y los requisitos para que tenga éxito.\nDescribir el papel de la evaluación sumativa y las características de las evaluaciones sumativas eficaces.\nDescribir el proceso de diseño inverso de una lección.\nCrear peguntas de opciones múltiples efectivas."
+    "text": "Explicar la diferencia entre la memoria a largo plazo y a corto plazo y describir el ciclo de recuperación/codificación.\nDescribir cómo se procesa, integra y almacena la información visual y auditiva.\nResumir las conclusiones de Benner et al sobre los modos de aprendizaje (visual + habla, visual + texto, visual + habla + texto).\nDefinir los tres tipos de carga cognitiva e identificar correctamente ejemplos de cada uno.\nExplicar que implicancias tiene la teoría de la carga cognitiva para el diseñar y enseñar lecciones.\nExplicar qué es un problema de Parsons y cómo su eficacia puede basarse en la teoría de la carga cognitiva.\nCrear Problemas de Parsons y explicar cuándo y cómo deben o no deben utilizarse."
   },
   {
-    "objectID": "evaluacion.html#slides",
-    "href": "evaluacion.html#slides",
-    "title": "Evaluación",
+    "objectID": "carga-cognitiva.html#slides",
+    "href": "carga-cognitiva.html#slides",
+    "title": "Carga Cognitiva",
     "section": "Slides",
     "text": "Slides"
   },
   {
-    "objectID": "intro-personas.html",
-    "href": "intro-personas.html",
-    "title": "Introducción y Personas",
+    "objectID": "materials.html",
+    "href": "materials.html",
+    "title": "Materiales del curso",
     "section": "",
-    "text": "Resumir cuatro objetivos clave de esta formación.\nExplicar cómo y por qué esta formación prepara a las personas para ser “paramédicos educativos”.\nExplicar qué son las personas o estudiantes tipo y para qué sirven.\nDescribir los cuatro elementos que debe tener toda persona tipo.\nCrear estudiantes tipo.\nResumir las lecciones de manera que resulten entendibles y atractivas para determinadas personas tipo."
-  },
-  {
-    "objectID": "intro-personas.html#objetivos-de-aprendizaje",
-    "href": "intro-personas.html#objetivos-de-aprendizaje",
-    "title": "Introducción y Personas",
-    "section": "",
-    "text": "Resumir cuatro objetivos clave de esta formación.\nExplicar cómo y por qué esta formación prepara a las personas para ser “paramédicos educativos”.\nExplicar qué son las personas o estudiantes tipo y para qué sirven.\nDescribir los cuatro elementos que debe tener toda persona tipo.\nCrear estudiantes tipo.\nResumir las lecciones de manera que resulten entendibles y atractivas para determinadas personas tipo."
-  },
-  {
-    "objectID": "intro-personas.html#slides",
-    "href": "intro-personas.html#slides",
-    "title": "Introducción y Personas",
-    "section": "Slides",
-    "text": "Slides"
+    "text": "Este curso fue construido utilizando los siguientes materiales y herramientas:\n\nGoogle Slides para las diapositivas y algunos ejercicios.\nGoogle Docs para los documentos compartidos.\nUna plantilla para sitios web de cursos desarrollada con Quarto y alojada en GitHub desarrollada por Pakillo\nLas imágenes de las slides fueron descargadas de Freepik"
   },
   {
     "objectID": "feedback.html",
