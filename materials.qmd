@@ -6,10 +6,10 @@ title: "Materiales del curso"
 
 En cada encuentro trabajamos con documentos compartidos, estos incluyen la información relevante para ese día, permite compartir otros materiales y además resolver ejercicios en grupo o individuales.
 
-[Documento para el primer encuentro](https://docs.google.com/document/d/1ZfHgbLSb79y-2qZD2MCZLCBOD1BJp2WexRyjXsaHwIw/edit)
-[Documento para el segundo encuentro](https://docs.google.com/document/d/1n5jvQBx0B8bcF90ik-PU_Mzf8LmV3tJfQJ1QRE8WdIE/edit?usp=drive_link)
-[Documento para el tercer encuentro](https://docs.google.com/document/d/1_S3We4kKKvOOQCP09DbwzSCEIyqUHBT-91SuyAnLw80/edit?usp=drive_link)
-[Documento para el cuarto encuentro](https://docs.google.com/document/d/1BpOzdf82Q3qFbifxaZwuVXkAYnpzxbvR5AAlgJ9M5Iw/edit?usp=drive_link)
+* [Documento para el primer encuentro](https://docs.google.com/document/d/1ZfHgbLSb79y-2qZD2MCZLCBOD1BJp2WexRyjXsaHwIw/edit)
+* [Documento para el segundo encuentro](https://docs.google.com/document/d/1n5jvQBx0B8bcF90ik-PU_Mzf8LmV3tJfQJ1QRE8WdIE/edit?usp=drive_link)
+* [Documento para el tercer encuentro](https://docs.google.com/document/d/1_S3We4kKKvOOQCP09DbwzSCEIyqUHBT-91SuyAnLw80/edit?usp=drive_link)
+* [Documento para el cuarto encuentro](https://docs.google.com/document/d/1BpOzdf82Q3qFbifxaZwuVXkAYnpzxbvR5AAlgJ9M5Iw/edit?usp=drive_link)
 
 ## Plantilla de encuesta de feedback
 
@@ -26,25 +26,25 @@ Esto permite que se pueda completar de forma rápida pero obteniendo informació
 Una vez que los estudiantes se conectaron:
 
 ### Antes de arrancar a dar la clase
-[] Compartir doc en el chat para que vayan entrando (y chequear que pueden editarlo)
+* Compartir doc en el chat para que vayan entrando (y chequear que pueden editarlo)
 
 ### Al arrancar
 
-[] Avisar si vamos a grabar, explicar donde quedará disponible.
-[] Agradecer el feedback mencionar como lo usamos para este encuentro
-[] Dinámica, doc compartido y mucho chat. 
-[] Compartir cada deck de slides al comienzo de cada una
-[] Compartir el doc compartido antes de cada ejercicio.
+* Avisar si vamos a grabar, explicar donde quedará disponible.
+* Agradecer el feedback mencionar como lo usamos para este encuentro
+* Dinámica, doc compartido y mucho chat. 
+* Compartir cada deck de slides al comienzo de cada una
+* Compartir el doc compartido antes de cada ejercicio.
 
 ### Al terminar
 
-[] Tarea para la próxima
-[] Solicitar feedback
+* Tarea para la próxima
+* Solicitar feedback
 
 Luego que los estudiantes se desconectaron: 
 
-[] Analizar el feedback con tu co-docente 
-[] Enviar un mail a los estudiantes con el link al documento compartido y la tarea (si corresponde)
+* Analizar el feedback con tu co-docente 
+* Enviar un mail a los estudiantes con el link al documento compartido y la tarea (si corresponde)
 
 
 ## Herramientas para construir el curso
