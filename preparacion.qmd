@@ -4,10 +4,10 @@ title: "Preparándote para Enseñar"
 
 ## Objetivos de aprendizaje
 
-Describir y resumir las técnicas para que la enseñanza interactiva en línea sea más eficaz.
-Describir dos métodos para garantizar que la atención se distribuye equitativamente entre los participantes de la clase y explicar por qué es importante.
-Describa al menos cuatro tipos diferentes de ejercicios que los estudiantes pueden hacer en una clase de programación más allá de simplemente escribir y ejecutar código.
-Describa cuatro formas de acomodar a alumnos de orígenes muy diversos en una misma clase y explique los pros y los contras de cada una de ellas.
+1. Describir y resumir las técnicas para que la enseñanza interactiva en línea sea más eficaz.
+2. Describir dos métodos para garantizar que la atención se distribuye equitativamente entre los participantes de la clase y explicar por qué es importante.
+3. Preparar un inicio de clase que genere un ambiente positivo, incluyendo tu presentación.
+4. Escribir objetivos de aprendizajes claros y determinar como se pueden evaluar.
 
 
 ## Slides
