@@ -252,11 +252,25 @@
     "text": "Slides"
   },
   {
-    "objectID": "materials.html",
-    "href": "materials.html",
+    "objectID": "materials.html#plantilla-de-encuesta-de-feedback",
+    "href": "materials.html#plantilla-de-encuesta-de-feedback",
     "title": "Materiales del curso",
-    "section": "",
-    "text": "Este curso fue construido utilizando los siguientes materiales y herramientas:\n\nGoogle Slides para las diapositivas y algunos ejercicios.\nGoogle Docs para los documentos compartidos.\nUna plantilla para sitios web de cursos desarrollada con Quarto y alojada en GitHub desarrollada por Pakillo\nLas imágenes de las slides fueron descargadas de Freepik"
+    "section": "Plantilla de encuesta de feedback",
+    "text": "Plantilla de encuesta de feedback\nLa encuesta de feedback o ticket de salida es anónima y opcional. Se entrega al finalizar cada encuentro.\nLos datos que pide son, la fecha del encuentro sobre la cual se está dando feedback y luego una cosa para mantener y una cosa para mejorar.\nEsto permite que se pueda completar de forma rápida pero obteniendo información valiosa.\nEste es un ejemplo de un formulario de google que implementa esta encuesta."
+  },
+  {
+    "objectID": "materials.html#check-list-para-el-curso-online",
+    "href": "materials.html#check-list-para-el-curso-online",
+    "title": "Materiales del curso",
+    "section": "Check list para el curso online",
+    "text": "Check list para el curso online\nUna vez que los estudiantes se conectaron:\n\nAntes de arrancar a dar la clase\n\nCompartir doc en el chat para que vayan entrando (y chequear que pueden editarlo)\n\n\n\nAl arrancar\n\nAvisar si vamos a grabar, explicar donde quedará disponible.\nAgradecer el feedback mencionar como lo usamos para este encuentro\nDinámica, doc compartido y mucho chat.\nCompartir cada deck de slides al comienzo de cada una\nCompartir el doc compartido antes de cada ejercicio.\n\n\n\nAl terminar\n\nTarea para la próxima\nSolicitar feedback\n\nLuego que los estudiantes se desconectaron:\n\nAnalizar el feedback con tu co-docente"
+  },
+  {
+    "objectID": "materials.html#herramientas-para-construir-el-curso",
+    "href": "materials.html#herramientas-para-construir-el-curso",
+    "title": "Materiales del curso",
+    "section": "Herramientas para construir el curso",
+    "text": "Herramientas para construir el curso\nUtilizamos estos recursos y herramientas :\n\nGoogle Slides para las diapositivas y algunos ejercicios.\nGoogle Docs para los documentos compartidos.\nGoogle Forms para el ticket de salida (encuesta de feedback).\nUna plantilla para sitios web de cursos desarrollada con Quarto y alojada en GitHub desarrollada por Pakillo\nFreepik para obtener imágenes que ilustren conceptos en las slides.\nTiny.cc para generar links cortos de las slides y de los documentos compartidos."
   },
   {
     "objectID": "mitos-reglas.html",
