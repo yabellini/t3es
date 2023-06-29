@@ -2,12 +2,54 @@
 title: "Materiales del curso"
 ---
 
-Este curso fue construido utilizando los siguientes materiales y herramientas:
+## Plantillas de documentos compartidos
+
+## Plantilla de encuesta de feedback
+
+La encuesta de feedback o ticket de salida es anónima y opcional.  Se entrega al finalizar cada encuentro.
+
+Los datos que pide son, la fecha del encuentro sobre la cual se está dando feedback y luego una cosa para mantener y una cosa para mejorar.
+
+Esto permite que se pueda completar de forma rápida pero obteniendo información valiosa.
+
+[Este es un ejemplo de un formulario de google que implementa esta encuesta.](https://forms.gle/pipVLjZWsLeX7cMJ6) 
+
+## Check list para el curso online
+
+Una vez que los estudiantes se conectaron:
+
+### Antes de arrancar a dar la clase
+* Compartir doc en el chat para que vayan entrando (y chequear que pueden editarlo)
+
+### Al arrancar
+
+* Avisar si vamos a grabar, explicar donde quedará disponible.
+* Agradecer el feedback mencionar como lo usamos para este encuentro
+* Dinámica, doc compartido y mucho chat. 
+* Compartir cada deck de slides al comienzo de cada una
+* Compartir el doc compartido antes de cada ejercicio.
+
+### Al terminar
+
+* Tarea para la próxima
+* Solicitar feedback
+
+Luego que los estudiantes se desconectaron: 
+
+* Analizar el feedback con tu co-docente 
+
+
+## Herramientas para construir el curso
+
+Utilizamos estos recursos y herramientas :
 
 * Google Slides para las diapositivas y algunos ejercicios.
 * Google Docs para los documentos compartidos.
+* Google Forms para el ticket de salida (encuesta de feedback).
 * [Una plantilla para sitios web de cursos desarrollada con Quarto y alojada en GitHub](https://github.com/Pakillo/quarto-course-website-template) desarrollada por [Pakillo](https://github.com/Pakillo/)
-* Las imágenes de las slides fueron descargadas de [Freepik](https://www.freepik.com/)
+* [Freepik](https://www.freepik.com/) para obtener imágenes que ilustren conceptos en las slides.
+* [Tiny.cc](https://www.tiny.cc/) para generar links cortos de las slides y de los documentos compartidos.
+
 
 
 
