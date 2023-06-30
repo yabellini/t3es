@@ -2,7 +2,7 @@
 title: "Enseñando Tecnología en Comunidad"
 ---
 
-Enseñando tecnología en comunidad. Consejos prácticos para enseñar aplicando la ciencia del aprendizaje y la enseñanza es una introducción a la enseñanza basada en evidencia científica para personas con formación técnica.
+Enseñando tecnología en comunidad. Consejos prácticos para enseñar aplicando la ciencia del aprendizaje y la enseñanza es un curso que introduce la enseñanza basada en evidencia científica para personas con formación técnica.
 
 Está basado en los materiales del libro [Enseñar Tecnología en Comunidad](https://educarencomunidad.tech/) ([Teaching Tech Together](https://teachtogether.tech/)) de [Greg Wilson](https://third-bit.com/) (2019).
 

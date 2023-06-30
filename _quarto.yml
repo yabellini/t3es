@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Enseñando Tecnología en Comunidad"
+  title: "Enseñando Tecnología en Comunidad. Consejos prácticos para enseñar aplicando la ciencia del aprendizaje y la enseñanza"
   sidebar:
     background: primary
     # logo: "images/logo.png"
